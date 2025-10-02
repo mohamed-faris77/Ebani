@@ -1,5 +1,4 @@
-# Ebani - assessment
-# Hospital Management System
+# Simple Hospital Management System
 
 This repo is a full-stack web application (Simple Hospital Management System) with separate **frontend** and **backend** codebases.  
 The project is structured for scalability and easy development.
