@@ -3,13 +3,6 @@
 This repo is a full-stack web application (Simple Hospital Management System) with separate **frontend** and **backend** codebases.  
 The project is structured for scalability and easy development.
 
----
-
-## 📂 Project Structure
-Ebani/
-├── backend/ # API, server logic, database integration
-├── frontend/ # User interface, client-side logic
-└── .gitignore
 
 
 ---
